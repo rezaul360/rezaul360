@@ -17,7 +17,7 @@ Skills: PHP/ JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 📝 I regularly write articles on [https://www.youtube.com/rezaul360deg](https://www.youtube.com/rezaul360deg)
 
-- 💬 Ask me about **PHP/ JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS**
+- 💬 Ask me about ** HTML/ CSS / BOOTSTRAP / JAVASCRIPT / REACT / NODE.JS / PHP/   **
 
 - 📫 How to reach me **rezaulkarim2448@gmail.com**
 
