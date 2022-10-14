@@ -8,7 +8,7 @@
 Welcome to my GitHub profile. I am the founder of Rezaul360. Knock me:
 m.facebook.com/rezaull360
 
-Skills: C / C++ / Javascript / BOOTSTRAP / REACT / node js / HTML / CSS
+Skills: C / C++ / JS / BOOTSTRAP / REACT / NODE JS / HTML / CSS
 
 - 🔭 I’m currently working on
   [IT-lead. Software development company](https://en.it-lead.eu/)
@@ -16,10 +16,10 @@ Skills: C / C++ / Javascript / BOOTSTRAP / REACT / node js / HTML / CSS
 - 🌱 I’m currently learning Golang, Java, C++
 
 - 👨‍💻 All of my projects are available at
-  [https://github.com/harun181](https://github.com/rezaul360)
+  [https://github.com/rezaul360](https://github.com/rezaul360)
 
 - 📝 I regularly write articles on
-  [https://www.learnwithtutul.xyz/](https://www.rezaul360.com/)
+  [https://www.rezaul360.com](https://www.rezaul360.com)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
