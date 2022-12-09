@@ -1,7 +1,7 @@
 ![I am Rezaul Karim](https://github.com/rezaul360/rezaul360/blob/master/code.png)
 
 <h1 align="center">Hi 👋, I'm Rezaul Karim</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h3 align="center">Programmer | Web Developer | Content Creator | Speed Learner</h3>
 
 ![Profile views](https://gpvc.arturio.dev/rezaul360)
 
