@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/rezaul360" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=rezaul360&label=Profile%20Views&color=0e75b6" alt="Profile views">
 </p>
 
 ---
@@ -15,11 +15,11 @@
 ### 🌟 About Me
 Welcome to my GitHub profile! I am the founder of **Rezaul360**. I love to build things that solve problems, primarily using JavaScript-based technologies.
 
-- 🔭 Currently working on: [IT-lead](https://en.it-lead.eu/) & my personal projects.
-- 📱 My latest focus: **React Native (Expo)** & **Electron Desktop Apps**.
-- 🌱 Always learning: Golang, Java, and modern UI/UX trends.
+- 🔭 Currently working on: [IT-lead](https://en.it-lead.eu/)
+- 📱 My focus: **React Native (Expo)** & **Electron Desktop Apps**.
+- 🌱 Always learning: Golang, Java, and modern UI/UX.
 - 📝 Articles: [rezaul360.com](https://www.rezaul360.com)
-- 💬 Ask me about: **JavaScript, React, Electron, and Web Development.**
+- 📫 How to reach me: **rezaulkarim2448@email.com**
 
 ---
 
@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I am the founder of **Rezaul360**. I love to build
 
 ### 🚀 Featured Project: Mini Mobile Browser
 A lightweight, efficient desktop mobile browser built with **Electron + JS**.
-[Check it out on my repositories!](https://github.com/rezaul360)
 
 ---
 
@@ -46,11 +45,10 @@ A lightweight, efficient desktop mobile browser built with **Electron + JS**.
 
 ### 📫 Connect with me
 <p align="center">
-  <a href="https://fb.com/rezaull360"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rezaul360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/rezaul360deg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <br>
-  <b>Email:</b> rezaulkarim2448@email.com | <b>Linktree:</b> <a href="https://linktr.ee/rezaul360">rezaul360</a>
+  <a href="https://fb.com/rezaull360">Facebook</a> | 
+  <a href="https://www.linkedin.com/in/rezaul360">LinkedIn</a> | 
+  <a href="https://www.youtube.com/rezaul360deg">YouTube</a> | 
+  <a href="https://linktr.ee/rezaul360">Linktree</a>
 </p>
 
 ---
